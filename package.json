@@ -1,0 +1,15 @@
+{
+  "name": "workflowy-bot",
+  "version": "1.0.0",
+  "description": "A slack bot",
+  "main": "lib/workflowy-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Cerise",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
