@@ -15,4 +15,7 @@
     "request": "latest",
     "cheerio": "latest"
   }
+  "scripts": {
+    "start": "bin/bot.js"
+  }
 }
