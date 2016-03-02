@@ -1,7 +1,7 @@
 
 'use strict';
 
-var WorkflowyBot = require('../lib/workflowybot');
+var WorkflowyBot = require('../lib/WorkflowyBot');
 
 var token = 'xoxb-23359279281-w3AVYUaJHF09hWobeZyG4L2g';
 var dbPath = process.env.BOT_DB_PATH;
